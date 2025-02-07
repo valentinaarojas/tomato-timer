@@ -1,0 +1,1 @@
+const study-btn = document.getElementById('button');
