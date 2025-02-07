@@ -17,21 +17,5 @@ body {
 }
 
 #buttons button {
-    font-size: 15px;
-    margin: 20px 7px;
-    padding: 10px 20px;
-}
-
-#session-count {
-    margin-top: 10px;
-}
-
-#light-theme {
-    background-color: white;
-    color: black;
-}
-
-#dark-theme {
-    background-color: black;
-    color: white;
+    font
 }
